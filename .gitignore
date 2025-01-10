@@ -1,0 +1,12 @@
+/vendor
+/composer.lock
+# Some of these directories may be created during CircleCI testing.
+/drush
+/core/
+/drupal/
+/tests/circle-scripts/drupal8/
+.idea
+.DS_Store
+docs/Badge.confluence
+
+.envrc
